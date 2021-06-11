@@ -1,0 +1,8 @@
+{
+  "name": "keycloak",
+  "role_type": "oidc",
+  "user_claim": "email",
+  "policies": "default",
+  "ttl": "1h",
+  "allowed_redirect_uris": "http://IP_ADDR:8200/ui/vault/auth/jwt/oidc/callback"
+}

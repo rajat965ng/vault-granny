@@ -1,0 +1,4 @@
+{
+  "role": "keycloak",
+  "redirect_uri": "http://IP_ADDR:8200/ui/vault/auth/jwt/oidc/callback"
+}

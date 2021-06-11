@@ -1,0 +1,8 @@
+{
+  "policies": ["web", "stage"],
+  "meta": {
+    "user": "sandy"
+  },
+  "ttl": "1h",
+  "renewable": true
+}

@@ -1,0 +1,4 @@
+{
+  "password": "superSecretPassword",
+  "token_ttl": "1h"
+}

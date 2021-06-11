@@ -1,0 +1,6 @@
+{
+  "oidc_discovery_url": "http://IP_ADDR:8080/auth/realms/master",
+  "oidc_client_id": "vault",
+  "default_role": "keycloak",
+  "oidc_client_secret": "testuser1234"
+}

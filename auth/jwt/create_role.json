@@ -1,0 +1,8 @@
+{
+  "name": "demo",
+  "role_type": "jwt",
+  "user_claim": "oracleId",
+  "bound_subject": "jwt_subject",
+  "policies": "default",
+  "ttl": "1h"
+}
